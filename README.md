@@ -1,0 +1,1 @@
+# pvs-studio-test-result
